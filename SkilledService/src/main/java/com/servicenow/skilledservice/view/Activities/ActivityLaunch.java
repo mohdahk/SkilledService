@@ -1,7 +1,7 @@
 package com.servicenow.skilledservice.view.Activities;
 
 
-//Branch : master
+//Branch : feature 1
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.PersistableBundle;
